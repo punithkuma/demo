@@ -40,7 +40,7 @@
 		<!-- <p>
             +-</p> -->
 		<!-- start: page -->
-		<section class="body-sign">
+		<section class="body-sign abc">
 			<div class="center-sign">
 				<a href="" class="logo pull-left">
 					<img src="assets/images/logo_new.png" height="54" alt="ADMIN LOGIN" />
